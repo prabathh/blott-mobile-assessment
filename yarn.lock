@@ -1690,14 +1690,6 @@
   dependencies:
     nanoid "3.3.8"
 
-"@react-navigation/stack@^7.1.1":
-  version "7.1.1"
-  resolved "https://registry.npmjs.org/@react-navigation/stack/-/stack-7.1.1.tgz"
-  integrity sha512-CBTKQlIkELp05zRiTAv5Pa7OMuCpKyBXcdB3PGMN2Mm55/5MkDsA1IaZorp/6TsVCdllITD6aTbGX/HA/88A6w==
-  dependencies:
-    "@react-navigation/elements" "^2.2.5"
-    color "^4.2.3"
-
 "@remix-run/node@^2.12.0":
   version "2.15.3"
   resolved "https://registry.npmjs.org/@remix-run/node/-/node-2.15.3.tgz"
@@ -1817,16 +1809,6 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
     react-error-boundary "^3.1.0"
-
-"@testing-library/react-native@^13.0.1":
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/react-native/-/react-native-13.0.1.tgz#6ede604c505c8fc8672c34b9993c769cecf5c8f4"
-  integrity sha512-sKMRNNniSOZ68qe1OBQAWvK87WCEmbfLp/MXfn2JE3x3WrNU8OFCVL0z/YKqw0/JO/d44J8Wq6FmRSaod/+VAg==
-  dependencies:
-    chalk "^4.1.2"
-    jest-matcher-utils "^29.7.0"
-    pretty-format "^29.7.0"
-    redent "^3.0.0"
 
 "@tootallnate/once@2":
   version "2.0.0"
@@ -3427,11 +3409,6 @@ expo-asset@~11.0.3:
     invariant "^2.2.4"
     md5-file "^3.2.3"
 
-expo-blur@~14.0.3:
-  version "14.0.3"
-  resolved "https://registry.npmjs.org/expo-blur/-/expo-blur-14.0.3.tgz"
-  integrity sha512-BL3xnqBJbYm3Hg9t/HjNjdeY7N/q8eK5tsLYxswWG1yElISWZmMvrXYekl7XaVCPfyFyz8vQeaxd7q74ZY3Wrw==
-
 expo-constants@~17.0.5:
   version "17.0.5"
   resolved "https://registry.npmjs.org/expo-constants/-/expo-constants-17.0.5.tgz"
@@ -3453,11 +3430,6 @@ expo-font@~13.0.3:
   integrity sha512-9IdYz+A+b3KvuCYP7DUUXF4VMZjPU+IsvAnLSVJ2TfP6zUD2JjZFx3jeo/cxWRkYk/aLj5+53Te7elTAScNl4Q==
   dependencies:
     fontfaceobserver "^2.1.0"
-
-expo-haptics@~14.0.1:
-  version "14.0.1"
-  resolved "https://registry.npmjs.org/expo-haptics/-/expo-haptics-14.0.1.tgz"
-  integrity sha512-V81FZ7xRUfqM6uSI6FA1KnZ+QpEKnISqafob/xEfcx1ymwhm4V3snuLWWFjmAz+XaZQTqlYa8z3QbqEXz7G63w==
 
 expo-image@~2.0.5:
   version "2.0.5"
@@ -3536,14 +3508,6 @@ expo-splash-screen@~0.29.21:
   integrity sha512-7uZ+qvIuNcvrvrLIklW+Wbt6llPuCj6LKYjrMu+GOX8s///laldS4TGiMAbqcE7fmfCzQ8ffgfY7xhxRourhcA==
   dependencies:
     "@expo/prebuild-config" "^8.0.25"
-
-expo-system-ui@~4.0.8:
-  version "4.0.8"
-  resolved "https://registry.npmjs.org/expo-system-ui/-/expo-system-ui-4.0.8.tgz"
-  integrity sha512-0AmWXJ3ObwMYxi2YGagwRQikydoUZJXLeK4A0FY1PsZpnlorSQ4IAfEVS38JmA54tf5CpP4TjBp5ZVEjRyv1rw==
-  dependencies:
-    "@react-native/normalize-colors" "0.76.7"
-    debug "^4.3.2"
 
 expo@~52.0.32:
   version "52.0.32"
