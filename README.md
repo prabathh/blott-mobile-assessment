@@ -1,6 +1,7 @@
 # Welcome to Blott 👋
 
-# Document https://docs.google.com/document/d/1zdNryTKc7b0gflRRZsMNijnRMzMjv9PHn10bVkGAwZc/edit?usp=sharing
+# Document 
+https://docs.google.com/document/d/1zdNryTKc7b0gflRRZsMNijnRMzMjv9PHn10bVkGAwZc/edit?usp=sharing
 
 Blott is a cross-platform mobile and web application built using [Expo](https://expo.dev). 
 It runs on **iOS, Android, and Web**, providing a seamless development experience. 
@@ -9,7 +10,7 @@ The project supports **unit testing with Jest** and utilizes **AsyncStorage** fo
 ## Get started
 
 1. Install dependencies
-   yarn install
+    yarn install
 
 2. Start the app
 
