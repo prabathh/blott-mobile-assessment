@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Blott",
+    "slug": "blott",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./theme/images/blott.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./theme/images/blott.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./theme/images/blott.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./theme/images/blott.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
